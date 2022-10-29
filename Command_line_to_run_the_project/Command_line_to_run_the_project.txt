@@ -1,0 +1,1 @@
+gcc main.c debug.h admin.h admin_mode.c user.h user_mode.c books.c  books.h owner.h owner_mode.c structs_definitions.h -o out.exe

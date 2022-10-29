@@ -1,0 +1,7 @@
+//#define debug
+#define DPRINTF(debug_level,...) if(debug_level>0){ printf("@ Func : %s, File : %s, Line : %d >>",__func__,__FILE__,__LINE__); printf("\t"); printf(__VA_ARGS__); }
+
+
+/*
+gcc main.c debug.h admin.h admin_mode.c user.h user_mode.c books.c  books.h owner.h owner_mode.c structs_definitions.h -o out.exe
+*/
