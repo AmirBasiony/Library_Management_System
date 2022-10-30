@@ -52,8 +52,8 @@ This project is to build a Library Management System to manage how the admins of
 ### User Mode 
 #### Login :  
 
-      User Name : User1 , User2 , User3
-      Password  : 1111  , 2222  , 3333 
+      User Name : user1 , user2 , user3
+      Password  : 1111  , 1212 , 1313 
       
 #### User Permissions : 
 
